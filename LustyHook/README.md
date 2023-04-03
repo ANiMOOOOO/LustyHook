@@ -1,7 +1,9 @@
 # LustyHook Made by Animo??
   - A simple program for Fucking Any Discord webhook
 
-![GITHUB](https://github.com/ANiMOOOOO)
+[GITHUB](https://github.com/ANiMOOOOO)
+
+[](https://github.com/ANiMOOOOO/LustyHook/blob/main/LustyHook/LustyHook.png?raw=true)
 
 ## Requirements
   - Python 3.8.2 or +
