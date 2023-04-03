@@ -3,7 +3,7 @@
 
 [GITHUB](https://github.com/ANiMOOOOO)
 
-https://github.com/ANiMOOOOO/LustyHook/blob/main/LustyHook/LustyHook.png?raw=true
+![](https://github.com/ANiMOOOOO/LustyHook/blob/main/LustyHook/LustyHook.png?raw=true)
 
 ## Requirements
   - Python 3.8.2 or +
